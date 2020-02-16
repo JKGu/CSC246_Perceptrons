@@ -1,1 +1,0 @@
-# CSC246_Perceptrons
